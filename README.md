@@ -13,7 +13,7 @@ I'm a Front end developer and Technical writer with 1-2 years of experience. I'm
 - 💪 I'm very good at HTML, CSS, JAVASCRIPT(REACT, VUE JS), SASS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end developer.
-- 📫 You can [view my resume]([https://docs.google.com/document/d/1sh_tyDC7UNWX4o-NX3mDFBgP0MAKM_yQ5G-m72U2VOQ/edit?usp=sharing]) and contact me by emailing wonuolalonge@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1BAg4AfWDIeQYCSgkBbXBZWKqjmLAnRfcTojiujMY6XA/edit?usp=sharing) contact me by emailing wonuolalonge@gmail.com.
 
 ---
 

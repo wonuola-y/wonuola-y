@@ -13,7 +13,7 @@ I'm a front-end developer and technical writer with 2-3 years of experience. I'm
 - 💪 I'm very good at HTML, CSS, JavaScript (React, NextJS), Tailwind CSS, and SASS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end developer.
-- 📫 You can [view my resume](https://docs.google.com/document/d/1BAg4AfWDIeQYCSgkBbXBZWKqjmLAnRfcTojiujMY6XA/edit?usp=sharing) contact me by emailing wonuolalonge@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1exHEKBCBLCXFNAMGlaNghqX3HEV8eME6G4kA0MrjsLI/edit?usp=sharing) contact me by emailing wonuolalonge@gmail.com.
 
 ---
 
